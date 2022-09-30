@@ -3,8 +3,8 @@ Margin: 0;
 padding: 0;
 font-family: 'Poppins', sans-serif;
 }
-.header{
-min-height: 100v;
+.header{ 
+    min-height: 100v;
 width: 100%;
 background-image: linear-
 gradient (rgba(4,9,30,0.7),rgda(4,9,30,0.7)),url(images/spartan.jpg);
